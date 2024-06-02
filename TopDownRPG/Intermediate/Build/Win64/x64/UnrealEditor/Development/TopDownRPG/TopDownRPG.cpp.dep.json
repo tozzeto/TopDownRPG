@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sulis\\onedrive\\documentos\\topdownrpg\\topdownrpg\\source\\topdownrpg\\topdownrpg.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sulis\\onedrive\\documentos\\topdownrpg\\topdownrpg\\intermediate\\build\\win64\\x64\\topdownrpgeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\sulis\\onedrive\\documentos\\topdownrpg\\topdownrpg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\topdownrpg\\definitions.topdownrpg.h",
+            "c:\\users\\sulis\\onedrive\\documentos\\topdownrpg\\topdownrpg\\source\\topdownrpg\\topdownrpg.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
